@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BuhBam3d.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="1004" y="0" width="304" height="399" frameX="-552" frameY="-158" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="idle0001" x="622" y="898" width="320" height="342" frameX="-557" frameY="-215" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="idle0002" x="307" y="898" width="315" height="356" frameX="-557" frameY="-201" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="idle0003" x="1308" y="358" width="307" height="357" frameX="-557" frameY="-200" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="left0000" x="0" y="447" width="335" height="451" frameX="-385" frameY="-175" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="left0001" x="379" y="457" width="310" height="416" frameX="-459" frameY="-166" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="down0000" x="1308" y="0" width="308" height="358" frameX="-552" frameY="-199" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="down0001" x="0" y="898" width="307" height="369" frameX="-551" frameY="-188" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="up0000" x="700" y="0" width="304" height="455" frameX="-547" frameY="-102" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="up0001" x="700" y="455" width="304" height="441" frameX="-549" frameY="-116" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="right0000" x="0" y="0" width="379" height="447" frameX="-529" frameY="-141" frameWidth="1416" frameHeight="624"/>
+	<SubTexture name="right0001" x="379" y="0" width="321" height="457" frameX="-537" frameY="-137" frameWidth="1416" frameHeight="624"/>
+</TextureAtlas>
